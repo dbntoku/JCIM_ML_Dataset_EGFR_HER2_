@@ -39,7 +39,7 @@ To access the dataset and code, clone this repository to your local machine:
 
 git clone
 
-[https://github.com/yourusername/EGFR-HER2-Inhibitors.git](https://github.com/dbntoku/JCIM_ML_EGFR_HER2_/tree/main)
+https://github.com/dbntoku/JCIM_ML_EGFR_HER2_.git
 
 Explore the Data:
 
