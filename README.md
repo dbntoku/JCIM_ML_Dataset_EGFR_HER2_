@@ -1,3 +1,5 @@
+Python code files(.ipynb), EGFR & HER2 Inhibitors Virtual Screening Dataset
+
 This repository contains a curated dataset from ChEMBL, dataset of virtually screened and predicted compounds against EGFR (Epidermal Growth Factor Receptor) and HER2 (Human Epidermal growth factor Receptor 2) inhibitors. 
 The final dataset was generated using a stacking ensemble of machine learning models to virtually screen compounds from the LOTUS database.
 
